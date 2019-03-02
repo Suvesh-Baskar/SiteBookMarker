@@ -1,0 +1,23 @@
+{
+  "name": "Bookmarker_Brad_Traversy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suvesh-Baskar/SiteBookMarker.git"
+  },
+  "keywords": [],
+  "author": "Suvesh Baskar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suvesh-Baskar/SiteBookMarker/issues"
+  },
+  "homepage": "https://github.com/Suvesh-Baskar/SiteBookMarker",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
